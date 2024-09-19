@@ -1,1 +1,2 @@
 These are the images I used in this tutorial:
+Just put these images into the folder where the Python script is, and then run the code.
